@@ -1,0 +1,14 @@
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\bin\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.exe
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\bin\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.deps.json
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\bin\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.runtimeconfig.json
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\bin\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.dll
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\bin\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.pdb
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\obj\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\obj\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.AssemblyInfoInputs.cache
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\obj\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.AssemblyInfo.cs
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\obj\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.csproj.CoreCompileInputs.cache
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\obj\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.dll
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\obj\Debug\net8.0\refint\algoritimos (PJD1M) joão lucas soares de lima.dll
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\obj\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.pdb
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\obj\Debug\net8.0\algoritimos (PJD1M) joão lucas soares de lima.genruntimeconfig.cache
+D:\Users\20241170150019\Desktop\algoritimos (PJD1M) joão lucas soares de lima\obj\Debug\net8.0\ref\algoritimos (PJD1M) joão lucas soares de lima.dll

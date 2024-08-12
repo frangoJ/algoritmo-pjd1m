@@ -1,0 +1,14 @@
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\bin\Debug\net8.0\algoritmo nova pasta.exe
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\bin\Debug\net8.0\algoritmo nova pasta.deps.json
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\bin\Debug\net8.0\algoritmo nova pasta.runtimeconfig.json
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\bin\Debug\net8.0\algoritmo nova pasta.dll
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\bin\Debug\net8.0\algoritmo nova pasta.pdb
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\obj\Debug\net8.0\algoritmo nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\obj\Debug\net8.0\algoritmo nova pasta.AssemblyInfoInputs.cache
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\obj\Debug\net8.0\algoritmo nova pasta.AssemblyInfo.cs
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\obj\Debug\net8.0\algoritmo nova pasta.csproj.CoreCompileInputs.cache
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\obj\Debug\net8.0\algoritmo nova pasta.dll
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\obj\Debug\net8.0\refint\algoritmo nova pasta.dll
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\obj\Debug\net8.0\algoritmo nova pasta.pdb
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\obj\Debug\net8.0\algoritmo nova pasta.genruntimeconfig.cache
+D:\Users\20241170150019\Desktop\algoritmo nova pasta\obj\Debug\net8.0\ref\algoritmo nova pasta.dll
